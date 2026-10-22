@@ -5,12 +5,12 @@
 <div align="center">
 
 <a href="https://github.com/varunjain2409/varun.gitignore"><img src="https://img.shields.io/badge/GitHub-varunjain2409%2Fvarun.gitignore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://github.com/varunjain2409/varun.gitignore/stargazers"><img src="https://img.shields.io/github/stars/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Stars"/></a>
-<a href="https://github.com/varunjain2409/varun.gitignore/network/members"><img src="https://img.shields.io/github/forks/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Forks"/></a>
-<a href="https://github.com/varunjain2409/varun.gitignore/commits"><img src="https://img.shields.io/github/last-commit/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Last commit"/></a>
-<img src="https://img.shields.io/github/languages/top/varunjain2409/=for-the-badge&logo=github&logoColor=white" alt="Top language"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="Git-F05032?logo=git"/>
-<img src="https://img.shields.io/badge/=for-the-badge&logoColor=white" alt="GitHub-181717?logo=github"/>
+<a href="https://github.com/varunjain2409/varun.gitignore/stargazers"><img src="https://img.shields.io/github/stars/varunjain2409/varun.gitignore?style=for-the-badge&logo=github&logoColor=white" alt="Stars"/></a>
+<a href="https://github.com/varunjain2409/varun.gitignore/network/members"><img src="https://img.shields.io/github/forks/varunjain2409/varun.gitignore?style=for-the-badge&logo=github&logoColor=white" alt="Forks"/></a>
+<a href="https://github.com/varunjain2409/varun.gitignore/commits"><img src="https://img.shields.io/github/last-commit/varunjain2409/varun.gitignore?style=for-the-badge&logo=github&logoColor=white" alt="Last commit"/></a>
+<img src="https://img.shields.io/github/languages/top/varunjain2409/varun.gitignore?style=for-the-badge&logo=github&logoColor=white" alt="Top language"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git-F05032?logo=git"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-181717?logo=github"/>
 
 </div>
 
